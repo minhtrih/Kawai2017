@@ -1,0 +1,59 @@
+.p-y-md { padding-top:    60px !important; padding-bottom: 60px !important; }
+.text-white {
+    color: #ffffff;
+}
+body {
+    font-family: Tahoma, Arial, sans-serif !important;
+    font-size: 16px;
+    line-height: 20px;
+    color: #69696E;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    padding: 0;
+    margin: 0;
+}
+
+/************countdown timer**************/
+#countdown {
+    line-height: 18px;
+    text-align: left;
+    margin:  110px 0px 69px;
+    min-height: 104px;
+}
+#countdown > div {
+    width: 100px;
+    height: 100px;
+    margin: 0px 1%;
+    display: inline-block;
+    font-size: 80px;
+    line-height: 84px;
+    position: relative;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 10px;
+}
+#countdown > div > span
+{
+	display: block;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: -20px;
+    text-align: center;
+}
+
+.section-padding{
+    padding: 60px 0px;
+}
+@media (min-width: 20px) and (max-width: 450px) {
+    .header-section p{
+        font-size: 14px;
+    }
+/***********************************
+Course
+************************************/
+
+td{
+    text-align: center !important;
+}
+
+
